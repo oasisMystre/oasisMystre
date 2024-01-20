@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **oasisMystre/oasisMystre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,4 +22,6 @@ Here are some ideas to get you started:
   > [email](mailto:typenonnull@proton.me)
   > [Twitter](https://x.com/@type_nonnull)
 
-  
+I'm the creator of [BeeLearn](https://usebeelearn.com)
+
+and also [Dosetrakr](https://auth.dosetrakr.xyz)
