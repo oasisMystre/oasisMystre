@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 - 👋 Hi, I’m Caleb
+- 🙃 No age here Plss
 - 👀 I’m interested in coding server infrastructure and writing smart contracts
 - 🌱 I’m currently learning embedded systems and Rust
 - 💞️ I’m looking to collaborate on startup ideas and open-source projects
