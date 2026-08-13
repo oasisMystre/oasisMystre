@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 - 👋 Hi, I’m Caleb
-- 🙃 No age here Plss
 - 👀 I’m interested in coding server infrastructure and writing smart contracts
 - 🌱 I’m currently learning embedded systems and Rust
 - 💞️ I’m looking to collaborate on startup ideas and open-source projects
+- 💬 Ask me about Low level design and Infrastructure codes
 - 📫 How to reach me
   > [email](mailto:typenonnull@proton.me)
   > [Twitter](https://x.com/@type_nonnull)
 
-I'm the creator of [BeeLearn](https://usebeelearn.com)
-
-and also [Dosetrakr](https://auth.dosetrakr.xyz)
