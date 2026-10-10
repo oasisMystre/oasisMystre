@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 - 👋 Hi, I’m Caleb
+- 🔭 I’m currently working on [Desk0](https://desk0.app)
 - 👀 I’m interested in coding server infrastructure and writing smart contracts
-- 🌱 I’m currently learning embedded systems and Rust
-- 💞️ I’m looking to collaborate on startup ideas and open-source projects
-- 💬 Ask me about Low level design and Infrastructure codes
+- 🌱 I’m currently learning embedded systems
+- 💞️ I’m looking to collaborate on startup ideas and opensource projects
+- 💬 Ask me about Low level and System designs 
 - 📫 How to reach me
-  > [email](mailto:typenonnull@proton.me)
-  > [Twitter](https://x.com/@type_nonnull)
+  > [email](mailto:payouk.mystre@gmail.com)
+  > [Twitter](https://x.com/@onisaibogu)
 
